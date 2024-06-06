@@ -6,7 +6,7 @@ I enjoy learning new technologies and putting them into practice through persona
 
 Core Skills
 Programming Languages: C/C++, Java, Android, C#, SQL, Fortran77, Python, JavaScript, Matlab
-Frameworks and Libraries: OpenCV, React, TensorFlow, Numpy, Pandas. 
+Frameworks and Libraries: OpenCV, YOLO, React, TensorFlow, Numpy, Pandas. 
 Tools and Technologies: Git, Comsol, Ansys, Matlab, Cybersecurity
 
 Contact
