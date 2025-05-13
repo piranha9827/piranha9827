@@ -3,8 +3,9 @@
 # Hi there, I'm Giuseppe 👋
 
 
-## I am a developer 💻 passionate about technology and programming, with a particular interest in artificial intelligence, remote sensing, data science, computer vision, modelling and simulation, robotics and computer graphics etc.
+## I am a Full- Stack Developer 💻 
 ---
+I am passionate about technology and programming, with a particular interest in artificial intelligence, remote sensing, data science, computer vision, modelling and simulation, robotics and computer graphics etc.
 
 ### 🤝 Connect with me:
 
