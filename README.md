@@ -6,8 +6,6 @@
   <h1>Hi there, I'm Giuseppe 👋</h1>
 </p>
 
-
-
 ## I am a Full- Stack Developer 💻 
 ---
 I am passionate about technology and programming, with a particular interest in artificial intelligence, remote sensing, data science, computer vision, modelling and simulation, robotics and computer graphics etc. I enjoy learning new technologies and putting them into practice through personal projects and open-source collaborations.
