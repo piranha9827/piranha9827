@@ -1,4 +1,6 @@
-![Header](https://your-image-url.com/header-image.png)
+<p align="center">
+  <img src="Logo.jpg" alt="GCR Logo"  width="1100" height="500">
+</p>
 
 # Hi there, I'm Giuseppe 👋
 
