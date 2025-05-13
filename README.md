@@ -2,7 +2,10 @@
   <img src="Logo.jpg" alt="GCR Logo"  width="1100" height="500">
 </p>
 
-# Hi there, I'm Giuseppe 👋
+<p align="center">
+  <h1>Hi there, I'm Giuseppe 👋</h1>
+</p>
+
 
 
 ## I am a Full- Stack Developer 💻 
